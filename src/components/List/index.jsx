@@ -4,10 +4,6 @@ import Item from '../Item'
 import './index.css'
 
 export default class List extends Component {
-<<<<<<< HEAD
-=======
-
->>>>>>> 768d972161b43e65d4d7145aae72c7cb9ab9c682
 	//set limit for props
 	static propTypes = {
 		todos: PropTypes.array.isRequired,
